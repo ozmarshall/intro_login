@@ -1,0 +1,67 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+#contenedor {
+    background-color: hsl(216, 50%, 16%);
+    width: 20%;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.contenedor_imagen {
+    text-align: center;
+}
+
+
+.img_principal {
+    border-radius: 15px;
+}
+
+
+
+h4 {
+    color: #fff;
+}
+
+.texto_principal {
+    color: hsl(215, 51%, 70%);
+    font-weight: 200;
+    font-size: 20px;
+}
+
+span {
+    font-size: 20px;
+}
+
+.contenedor_secundario {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modeda {
+    color: hsl(178, 100%, 50%);
+}
+
+.dia {
+    color: hsl(215, 51%, 70%);
+}
+
+.linea {
+    height: 1px;
+    background-color: hsl(215, 51%, 70%);
+    border: none;
+    height: 5px;
+}
+
+.imagen_avatar {
+    border: solid 1px #fff;
+    border-radius: 75%;
+}
+
+.text_strong {
+    color: #fff;
+
+}
